@@ -1,5 +1,3 @@
-languages = ['ruby', 'javascript', 'python', 'objective-c']
-
 def my_collect(collection)
   new_collection = []
   if collection.empty?
